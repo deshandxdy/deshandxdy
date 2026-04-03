@@ -56,8 +56,8 @@ Currently expanding into AI engineering — building RAG pipelines, LangGraph ag
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkadeshan&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadeshan&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=deshandxdy&theme=default&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshandxdy&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
 
 ---
@@ -81,11 +81,11 @@ I started my career in an apparel factory as an industrial engineer before pivot
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushkadeshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deshandharmasena/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anushkadeshan@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushkadeshan&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deshandxdy&color=blue&style=flat" alt="Profile views" />
 </p>
